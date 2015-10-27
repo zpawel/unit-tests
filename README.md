@@ -1,12 +1,11 @@
-# Exercise 1 
+#Unit tests
+Monday (02.11.2015):
 
-##Summary
-JS Assessment tests for basic JavaScript knowledge. Each exercise consist of a few simple tasks. You have been provided with the function
- name and purpose, your job is to implement them.
- 
-Write your solutions inside `app/exercise1.js` file. 
+* `npm instal`
+* write unit tests to functions placed in `app/exercise1.js`
+* you can write function based on the README and test them using `grunt test:dev` command
 
-##Goals
+GOOD LUCK :)
 
 ###getDescendingNumbers function
 
@@ -53,23 +52,3 @@ The formula is as provided:
     h * ( a + b ) / 2
 
 If the parameters are incorrect the function should return false.
-
-## Before you start...
-
-Resolve the provided dependencies by typing in console:
-
-    npm install
-
-To test your solution locally, type:
-
-    npm test
-
-JavaScript basic functions:
-
-    http://www.w3schools.com/jsref/
-    
-Javascript EcmaScript5 tutorials and more:
-
-    https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-Good luck!

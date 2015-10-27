@@ -1,5 +1,6 @@
 #IDEs
 #IntelliJ Idea
 .idea
-*node_modules
-*test/target
+*.iml
+node_modules/
+target/
